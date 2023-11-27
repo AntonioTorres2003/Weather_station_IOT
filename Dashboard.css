@@ -1,0 +1,17 @@
+/* Dashboard.css */
+.logout-button {
+    background-color: #fff; /* Color de fondo blanco */
+    color: #000; /* Texto en color negro */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .logout-button:hover {
+    background-color: #000; /* Cambia el color de fondo al pasar el ratón por encima */
+    color: #fff; /* Cambia el color del texto al pasar el ratón por encima */
+  }
+  
